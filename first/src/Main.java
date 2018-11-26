@@ -1,7 +1,11 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
-        System.out.println("How are you?");
+        int number;
+        String text;
+        number = 5;
+        text = "Hello there";
+        System.out.println(text);
+        System.out.println(number);
     }
 }
